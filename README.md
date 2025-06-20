@@ -27,16 +27,7 @@ This is a **Blog Web Application** built using **Django** as the backend framewo
 
 ## 📁 Project Structure
 
-blog_project/
-├── blog_app/ # Main blog app
-│ ├── templates/ # HTML templates
-│ ├── models.py # Blog models
-│ ├── views.py # Business logic
-│ └── urls.py # App routing
-├── blog_project/ # Project settings
-│ ├── settings.py # DB and app settings
-├── static/ # Static files (optional)
-├── manage.py # Django management tool
+<pre lang="markdown"> ```bash blog_project/ ├── blog_app/ # Main blog app │ ├── templates/ # HTML templates │ ├── models.py # Blog models │ ├── views.py # Business logic │ └── urls.py # App routing ├── blog_project/ # Project settings │ └── settings.py # DB and app settings ├── static/ # Static files (optional) ├── manage.py # Django management tool ``` </pre>
 
 
 
