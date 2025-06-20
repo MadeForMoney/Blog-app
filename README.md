@@ -51,7 +51,7 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+
 Just Install django and mysqlclient using pip install command
 
 In settings.py add your database information
@@ -72,13 +72,15 @@ python manage.py migrate
 python manage.py createsuperuser
 
 python manage.py runserver
-
+```
 ![image](https://github.com/user-attachments/assets/9c4c185f-207a-4232-aae9-bf4a4c6c412b)
 
 
-🙋‍♂️ Author
+🙋‍♂️ Author:
+
 Nithilan M
 
-GitHub Profile
+GitHub Profile:
+
 
 Email: nithilan.am@gmail.com
