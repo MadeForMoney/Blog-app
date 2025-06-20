@@ -25,7 +25,6 @@ This is a **Blog Web Application** built using **Django** as the backend framewo
 
 ---
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
@@ -70,6 +69,8 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
+Then run these commands:
 
 python manage.py makemigrations
 python manage.py migrate
